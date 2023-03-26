@@ -1,10 +1,14 @@
-# Week 1 — Introduction into DevOps
+# DevOps Crash Course Lab
 
-  + [Install VirtualBox](#install-virtualBox)
+by Daria Korobenko
+
+## Week 1 — Introduction into DevOps
+
+  + [Install VirtualBox](#install-virtualbox)
   + [Install Vagrant](#install-vagrant)
-  + [Using Vagrant create virtual machine with OS Linux Ubuntu 20.04](#using-vagrant-create-virtual-machine-with-os-linux-ubuntu-20.04)
+  + [Create virtual machine with OS Linux Ubuntu 20.04](#create-virtual-machine-with-os-linux-ubuntu-2004)
   
-## Install VirtualBox
+### Install VirtualBox
 
 1. Installed [VirtualBox](https://www.virtualbox.org/wiki/Downloads):
 
@@ -14,13 +18,13 @@
 
 ![VirtualBox UI](/docs/virtualbox.png):
 
-## Install Vagrant
+### Install Vagrant
 
 1. Installed [Vagrant](https://developer.hashicorp.com/vagrant/downloads):
 
 ![Vagrant version](/docs/vagrant_version.png)
 
-## Using Vagrant create virtual machine with OS Linux Ubuntu 20.04
+### Create virtual machine with OS Linux Ubuntu 20.04
 
 [Vagrant documentation](https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index)
 
